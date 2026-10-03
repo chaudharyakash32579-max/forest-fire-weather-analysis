@@ -178,3 +178,6 @@ print("5. Correlation analysis helps study relationships between weather and bur
 # ---------------------------------
 
 print("\nForest Fire & Weather Analysis Completed!")
+plt.show()
+
+
